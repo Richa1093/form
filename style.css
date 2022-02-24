@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+fieldset {
+    background-color: brown;
+    text-align: center;
+    font-family: fantasy;
+    color: antiquewhite;
+    margin-left: 270px;
+    margin-right: 100px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
